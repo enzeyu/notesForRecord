@@ -86,5 +86,5 @@ Master-slave chain based trusted cross-domain authentication mechanism in IoT
 
 使用Constant Speed Propagation Delay Model，即距离除以光速可以获得延迟。        可以添加一个道路和基站的实验图，以说明通信的延迟在实验里对实验结果没有影响。
 
-
+![实验道路图](https://github.com/enzeyu/notesForRecord/tree/main/pictures/roadFigure.jpg)
 
