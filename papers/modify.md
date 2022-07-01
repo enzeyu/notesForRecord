@@ -88,3 +88,8 @@ Master-slave chain based trusted cross-domain authentication mechanism in IoT
 
 ![实验道路图](https://github.com/enzeyu/notesForRecord/tree/main/pictures/roadFigure.jpg)
 
+
+
+## 安全性分析
+
+针对区块链的安全需求和对4类攻击的抵抗，进行分析。
