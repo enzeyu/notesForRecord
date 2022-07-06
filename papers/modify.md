@@ -88,6 +88,10 @@ Master-slave chain based trusted cross-domain authentication mechanism in IoT
 
 ![实验道路图](https://github.com/enzeyu/notesForRecord/tree/main/pictures/roadFigure.jpg)
 
+距离 5G基站 1km 加一个citation 
+
+宏基站和微基站一起能覆盖多少？是否能覆盖8km路段？
+
 
 
 
@@ -96,9 +100,9 @@ Master-slave chain based trusted cross-domain authentication mechanism in IoT
 
 ### 我的疑问
 
-机密性 完整性 可用性这样的要提吗？
+机密性 完整性 可用性这样的要提吗？（不提）
 
-### 暂定的性质：
+### 暂定的性质：（参考别人）
 
 1. 可验证性
 2. 抗抵赖性
@@ -108,6 +112,14 @@ Master-slave chain based trusted cross-domain authentication mechanism in IoT
 
 
 ## 安全性分析
+
+### 区块链性质
+
+### model analysis
+
+
+
+
 
 可验证性，不同组织节点可以根据车辆上报信息对车辆信誉值进行计算验证。
 
